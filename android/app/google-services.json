@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616085624653",
+    "project_id": "new-clicking-app",
+    "storage_bucket": "new-clicking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616085624653:android:b3a909e2d39586c6c28904",
+        "android_client_info": {
+          "package_name": "com.ogdev.high_cpc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616085624653-qpnu9g8mt13d9rbjrapevkhm37lj5nti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHHaEPyZRdl76-sWBEBF4R4v4MZCbexr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616085624653-qpnu9g8mt13d9rbjrapevkhm37lj5nti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
